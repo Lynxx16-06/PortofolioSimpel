@@ -39,7 +39,7 @@
                 viewBox="0 0 24 24"
                 stroke-width="1.5"
                 stroke="currentColor"
-                class="size-8 bg-gray-600 p-1 rounded-full text-orange-200"
+                class="md:size-8 md:bg-gray-600 md:p-1 md:rounded-full md:text-orange-200"
               >
                 <path
                   stroke-linecap="round"
@@ -55,7 +55,7 @@
                 viewBox="0 0 24 24"
                 stroke-width="1.5"
                 stroke="currentColor"
-                class="size-8 bg-gray-600 p-1 rounded-full text-white"
+                class="md:size-8 md:bg-gray-600 md:p-1 md:rounded-full md:text-white"
               >
                 <path
                   stroke-linecap="round"
