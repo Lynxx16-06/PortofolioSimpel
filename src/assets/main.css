@@ -1,0 +1,45 @@
+@import './base.css';
+@import "tailwindcss";
+
+body {
+  background-color: #131313;
+  overflow-x: hidden;
+}
+
+@theme {
+  --color-primary: #131313;
+  --color-secondary: #c9f41e;
+  --color-three: #5555;
+}
+
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+.dark {
+  background-color: white;
+  color: white;
+}
+
+.dark .bg-gray-10 {
+  background-color: #131313;
+}
+
+.dark .text-gray {
+  color: #e5e7eb;
+}
+
+.dark .text-gray-10 {
+  color: black;
+}
+
+.dark .fill-gray-10 {
+  color: black;
+}
+
+.dark .bg-border-100 {
+  background-color: #1c2029;
+}
+
+.dark .bg-blue {
+  background-color: blue;
+}
