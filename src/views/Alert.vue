@@ -33,7 +33,7 @@
           </dl>
         </div>
       </div>
-      <footer class="text-center absolute md:left-225 left-37 bottom-5 md:bottom-10 content-center text-white">
+      <footer class="md:text-center md:absolute hidden md:block md:left-225 left-37 bottom-5 md:bottom-10 content-center text-white">
         <div class="">
           <span>&copy; Copyright 2024</span>
         </div>
