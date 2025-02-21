@@ -82,7 +82,7 @@
           <div
             v-for="(item, index) in items"
             :key="index"
-            class="md:w-37 w-full mt-30 md:mt-0 md:mr-40 md:block text-white"
+            class="md:w-37 w-full mt-40 md:mt-0 md:mr-40 md:block text-white"
           >
             <div
               v-if="openUtama === index"
