@@ -1,5 +1,5 @@
 <template>
-  <div >
+  <div class="overflow-x-hidden">
     <main class="md:pt-80 md:mt-0 mt-50">
       <div
         class="md:flex md:justify-around md:items-center md:text-white bg-gray-10"

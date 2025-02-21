@@ -1,6 +1,6 @@
 <template>
     <main class="">
-        <div class="">
+        <div class="overflow-x-hidden">
             <div class="text-center text-white">
                 <h1 class="border p-2 rounded-2xl inline-flex text-xs mb-3">My Project</h1>
                 <h1 class="text-3xl font-bold mb-30">Explore My Popular <span class="text-secondary">Project</span></h1>
